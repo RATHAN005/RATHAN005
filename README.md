@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RATHAN005
 - 👀 I’m interested in computer related stuffs
 - 🌱 I’m currently learning python,HTML,CSS,JS
-- 📫 REACH me on instagram = https://www.instagram.com/rathan_005_
+- 📫 REACH me on instagram = https://www.instagram.com/rathan_05_
 - ⚡ pc builder
 
 <!---
