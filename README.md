@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RATHAN005
-- 👀 I’m interested in computer related stuffs
+- 👋 Hi, I’m RATHAN
+-  👀 I’m interested in computer hardware technology
 - 🌱 I’m currently learning python,HTML,CSS,JS
-- ⚡ pc builder
+- ⚡ PC builder
 
 <!---
 RATHAN005/RATHAN005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
