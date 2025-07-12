@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RATHAN
 -  👀 I’m interested in computer hardware technology
-- 🌱 I’m currently learning python,HTML,CSS,JS
+- 🌱 I’m currently learning REACT , NODE JS , AWS.
 - ⚡ PC builder
 
 <!---
