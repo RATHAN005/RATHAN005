@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RATHAN K</h1>
-<h3 align="center">HARDWARE ENTHUSIAST</h3>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=HARDWARE+ENTHUSIAST+%F0%9F%92%BB;PC+BUILDER+%E2%9A%99%EF%B8%8F;FULL+STACK+DEVELOPER+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;AR%2FVR+DEVELOPER+%F0%9F%8E%AE;DEVOPS+%F0%9F%9B%A0%EF%B8%8F;CLOUD+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></h1>
 
 
 - 🔭 I’m currently working on mediapipe and python **gesture based VR game**
