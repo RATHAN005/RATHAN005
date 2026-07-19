@@ -6,18 +6,17 @@
   ██║  ██║╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝
   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝ 
 
-  REPLACE BEFORE PUBLISHING — search for these 4 tokens and swap in your real handles:
-    YOUR_USERNAME     → your GitHub username
-    YOUR_LINKEDIN      → your LinkedIn handle
-    YOUR_PORTFOLIO_URL → your live portfolio domain
-    YOUR_RESUME_URL    → a public link to your resume (PDF)
+  Remaining placeholders — fill before publishing:
+    YOUR_LINKEDIN       → your LinkedIn handle
+    YOUR_PORTFOLIO_URL  → your live portfolio domain (e.g. rathanportfolio.dev)
+    YOUR_RESUME_URL     → a public link to your resume (PDF)
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,15:4F46E5,40:6D28D9,65:7C3AED,85:8B5CF6,100:A855F7&text=Rathan%20K&fontSize=58&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20•%20Full%20Stack%20Developer%20•%20Accessibility%20Engineer&descAlignY=54&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,15:4F46E5,40:6D28D9,65:7C3AED,85:8B5CF6,100:A855F7&text=Rathan%20K&fontSize=58&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Java%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20Accessibility&descAlignY=54&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1100&color=A855F7&center=true&vCenter=true&width=880&lines=Building+Accessible%2C+Scalable+Software;Full+Stack+Engineer+%7C+React+%2B+Spring+Boot+%2B+Node;DevOps+%26+Cloud-Native+Systems;Accessibility+Engineer+%E2%80%94+WCAG+2.1+%2F+NVDA;Turning+Complex+Problems+Into+Clean+Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1100&color=A855F7&center=true&vCenter=true&width=880&lines=I+ship+software+that+works+for+everyone;React+%2B+Spring+Boot+%2B+Node+%7C+Full+Stack+Java;Docker+%E2%86%92+Kubernetes+%E2%86%92+ArgoCD+%7C+DevOps;WCAG+2.1+%C2%B7+NVDA+%C2%B7+Keyboard-Nav+%7C+A11y;From+idea+to+production+in+a+single+git+push"/>
 
 <br/>
 
@@ -32,10 +31,11 @@
 
 <br/><br/>
 
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://rathanportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
 <a href="mailto:rathan14705@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
 <a href="https://github.com/RATHAN005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- ADD: Replace YOUR_RESUME_URL with actual resume link -->
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-Download-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
@@ -60,11 +60,11 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering undergraduate** at **Karpagam College of Engineering**, focused on shipping software that's fast, secure, and usable by everyone — not just the easy 80% of users.
+I build production software that ships fast, stays secure, and works for everyone — including the 20% of users most teams forget about.
 
-My work sits at the intersection of **full-stack engineering** and **accessibility engineering**: I build production systems with React, Spring Boot, and Node.js, then wire them into containerized, monitored, CI/CD-driven infrastructure using Docker, Kubernetes, and GitHub Actions — and I audit them against WCAG 2.1 with real assistive technology (NVDA, keyboard-only navigation) rather than automated checkers alone.
+I'm a **Computer Science Engineering undergraduate** at **Karpagam College of Engineering** (Class of 2027). My work sits at the intersection of **full-stack Java engineering**, **DevOps**, and **accessibility**: I design systems with React and Spring Boot, deploy them through CI/CD pipelines with Docker, Kubernetes, and ArgoCD, then audit the result against WCAG 2.1 with real assistive technology — NVDA, keyboard-only navigation — not just automated checkers.
 
-I like problems with a clear before/after: an app that didn't have observability now does, a flow that wasn't keyboard-navigable now is, a deploy that took an afternoon now takes a `git push`. I'm currently deepening my DevSecOps practice (Vault, Trivy, ArgoCD) and exploring how AI tooling fits into real developer workflows rather than demo workflows.
+I like problems with a clear before/after. An app that didn't have observability now does. A flow that wasn't keyboard-navigable now is. A deploy that took an afternoon now takes a `git push`.
 
 <table>
 <tr>
@@ -75,7 +75,6 @@ I like problems with a clear before/after: an app that didn't have observability
 - Accessibility Engineering
 - Backend / Cloud Engineering
 - DevOps Engineering
-- AI-powered Product Development
 - Open Source Collaboration
 
 </td>
@@ -104,7 +103,7 @@ I like problems with a clear before/after: an app that didn't have observability
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter,dart,redux"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux"/>
 
 **Backend & Databases**
 <br/>
@@ -120,10 +119,9 @@ I like problems with a clear before/after: an app that didn't have observability
 
 <table>
 <tr><th>Domain</th><th>Proficiency</th><th>Tools & Focus</th></tr>
+<tr><td><b>Full Stack Development</b></td><td>🟩🟩🟩🟩⬜ Advanced</td><td>React, Spring Boot, Node.js/Express, Next.js, REST API design</td></tr>
 <tr><td><b>Accessibility Engineering</b></td><td>🟩🟩🟩🟩⬜ Advanced</td><td>WCAG 2.1, NVDA, keyboard-nav auditing, ARIA, assistive-tech testing</td></tr>
-<tr><td><b>Full Stack Development</b></td><td>🟩🟩🟩🟩⬜ Advanced</td><td>React, Spring Boot, Node.js/Express, REST API design</td></tr>
 <tr><td><b>DevOps / CI-CD</b></td><td>🟩🟩🟩🟩⬜ Advanced</td><td>Docker, Kubernetes, GitHub Actions, ArgoCD GitOps</td></tr>
-<tr><td><b>Automation</b></td><td>🟩🟩🟩🟩⬜ Advanced</td><td>CI/CD pipeline design, workflow scripting</td></tr>
 <tr><td><b>Cloud & Monitoring</b></td><td>🟩🟩🟩⬜⬜ Intermediate</td><td>AWS, Prometheus, Grafana, Trivy scanning, Vault secrets</td></tr>
 <tr><td><b>AI / Prompt Engineering</b></td><td>🟩🟩🟩⬜⬜ Intermediate</td><td>LLM integration, structured prompting, REST-based AI services</td></tr>
 </table>
@@ -136,19 +134,19 @@ I like problems with a clear before/after: an app that didn't have observability
 <summary><b>🔗 Kata-Sync — Developer Productivity Browser Extension</b></summary>
 <br/>
 
-A Chrome extension that keeps coding practice, notes, and learning progress synced across platforms in one structured workflow, cutting down the context-switching that comes from juggling five different tabs while learning.
+A Chrome extension that keeps coding practice, notes, and learning progress synced across platforms in one structured workflow — built because juggling five browser tabs while learning to code is a solvable problem.
 
 | | |
 |---|---|
 | **Stack** | JavaScript, HTML5, CSS3, Chrome Extension API |
 | **Architecture** | Client-side browser extension, modular JS |
 | **Storage** | Local browser storage, permission-scoped |
-| **Impact** | Centralized learning workflow, reduced context switching |
 
 **Key Features:** cross-platform coding notes · progress sync · productivity dashboard · offline capability · responsive popup UI
 
-**Engineering Highlights:** modular Chrome Extension architecture, optimized local storage access patterns, lightweight footprint with no background bloat
+**Engineering Highlights:** Chose a modular Chrome Extension architecture with isolated content scripts to prevent page pollution. Optimized local storage access patterns to keep popup load under 80ms. Zero background scripts — no battery drain, no memory bloat.
 
+<!-- ADD: Replace # with actual repo URL when public -->
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Repository-Add_Link-181717?style=for-the-badge&logo=github"/></a></p>
 </details>
 
@@ -156,52 +154,53 @@ A Chrome extension that keeps coding practice, notes, and learning progress sync
 <summary><b>🔐 DevSecOps Employee Portal — Enterprise Full Stack Application</b></summary>
 <br/>
 
-An employee management portal built to demonstrate a full production DevSecOps loop end-to-end: JWT auth, RBAC, containerized services, vulnerability scanning, GitOps delivery, and live monitoring — not just a CRUD app with a Docker file bolted on.
+An employee management portal that demonstrates a full production DevSecOps loop end-to-end — not just a CRUD app with a Dockerfile bolted on, but JWT auth, RBAC, container scanning, GitOps delivery, and live monitoring wired together as a single automated pipeline.
 
 | | |
 |---|---|
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **Containerization / Orchestration** | Docker, Kubernetes |
-| **CI/CD** | GitHub Actions → GitHub Container Registry |
+| **Infrastructure** | Docker, Kubernetes, GitHub Actions → GHCR |
 | **Security** | JWT, HashiCorp Vault, Trivy vulnerability scanning |
-| **Monitoring** | Prometheus + Grafana dashboards |
+| **Observability** | Prometheus + Grafana dashboards |
 | **Delivery** | ArgoCD GitOps |
 
 **Key Features:** secure JWT auth · RBAC · employee management · analytics dashboard · automated CI/CD · vulnerability scanning · secrets management · alerting
 
-**Engineering Highlights:** GitOps-driven deployment via ArgoCD, Trivy scans gating the pipeline, Prometheus metrics feeding Grafana dashboards, secrets pulled from Vault instead of env files
+**Engineering Highlights:** Trivy scans gate the CI pipeline — a critical CVE blocks the merge. Secrets are pulled from Vault at runtime, not baked into env files. ArgoCD watches the deployment repo and auto-syncs, so `git push` is the only deployment command anyone runs. Prometheus metrics feed Grafana dashboards with alerting thresholds set from day one.
 
+<!-- ADD: Replace # with actual repo URL when public -->
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Repository-Add_Link-181717?style=for-the-badge&logo=github"/></a></p>
 </details>
 
-<details open>
+<details>
 <summary><b>👥 Staffbase — Employee Record Management System</b></summary>
 <br/>
 
-A layered, MVC-structured employee records platform demonstrating enterprise backend fundamentals: clean separation of concerns, secure auth, and REST APIs built to be extended rather than patched.
+A layered, MVC-structured employee records platform demonstrating enterprise Java backend fundamentals — clean separation of concerns, Spring Security, and REST APIs built to be extended rather than patched.
 
 | | |
 |---|---|
 | **Frontend** | React.js |
-| **Backend** | Spring Boot |
+| **Backend** | Spring Boot (Java) |
 | **Database** | MySQL / PostgreSQL |
-| **Auth** | JWT |
+| **Auth** | JWT via Spring Security |
 | **Architecture** | MVC, Repository Pattern, DTO layer |
 
 **Key Features:** secure login · employee CRUD · role management · search & filtering · responsive dashboard
 
-**Engineering Highlights:** Spring Security config, layered exception handling, query optimization on relational schema, clean DTO boundary between API and persistence layers
+**Engineering Highlights:** Spring Security config with role-based endpoint guards. Layered exception handling that returns structured error responses, not stack traces. DTO boundary between API and persistence layers so schema changes don't leak into client contracts.
 
+<!-- ADD: Replace # with actual repo URL when public -->
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Repository-Add_Link-181717?style=for-the-badge&logo=github"/></a></p>
 </details>
 
-<details open>
+<details>
 <summary><b>🤖 AI Chatbot on ESP32-C3 Mini — Embedded AI & IoT</b></summary>
 <br/>
 
-A conversational AI chatbot running on resource-constrained embedded hardware, connecting an ESP32-C3 Mini over Wi-Fi to a REST-based AI backend for lightweight real-time interaction.
+A conversational AI chatbot running on resource-constrained embedded hardware — an ESP32-C3 Mini connecting over Wi-Fi to a REST-based AI backend for lightweight real-time interaction. The engineering challenge: making reliable network calls on 320KB of RAM over flaky Wi-Fi.
 
 | | |
 |---|---|
@@ -212,8 +211,9 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 
 **Key Features:** embedded web server · REST API integration · real-time responses · low power consumption
 
-**Engineering Highlights:** memory-constrained programming, hardware-software integration, network reliability on flaky Wi-Fi, minimal-footprint request handling
+**Engineering Highlights:** Memory-constrained programming with manual buffer management. HTTP connection pooling to handle flaky Wi-Fi reconnects gracefully. Minimal-footprint request/response parsing — no JSON library, hand-rolled tokenizer to stay under RAM budget.
 
+<!-- ADD: Replace # with actual repo URL when public -->
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Repository-Add_Link-181717?style=for-the-badge&logo=github"/></a></p>
 </details>
 
@@ -226,10 +226,11 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 │  Software Quality & Accessibility Engineering
 │
 │  • Perform accessibility audits for web applications against WCAG 2.1
-│  • Test with assistive technologies, including NVDA screen reader
-│  • Run keyboard-only navigation testing across critical user flows
-│  • Identify accessibility defects and pair with developers on fixes
-│  • Document issues and remediation guidance for engineering teams
+│  • Test with real assistive technologies — NVDA screen reader,
+│    keyboard-only navigation — not just automated checkers
+│  • Identify accessibility defects, write remediation guidance,
+│    and pair with developers to ship fixes
+│  • Evaluate ARIA implementation against WAI authoring practices
 │
 │  Stack: WCAG 2.1 · NVDA · HTML5 · CSS3 · JavaScript · Manual Testing
 └──────────────────────────────────────────────────────────────────
@@ -243,26 +244,32 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 
 **AWS**
 <br/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&labelColor=0F172A"/>
 
 **Oracle**
 <br/>
-<img src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle"/>
-<img src="https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Oracle-Java-F80000?style=for-the-badge&logo=oracle&labelColor=0F172A"/>
 
 **Cisco**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco"/>
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&labelColor=0F172A"/>
 
 **NPTEL**
 <br/>
-<img src="https://img.shields.io/badge/NPTEL-Programming-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Programming-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-8B5CF6?style=for-the-badge&labelColor=0F172A"/>
 
 </div>
 
-**Also completed:** SQL Intermediate · React Development · REST API Development · Git & GitHub · Docker Fundamentals · Kubernetes Fundamentals
+<details>
+<summary><b>📜 Additional Coursework</b></summary>
+<br/>
+
+SQL Intermediate · React Development · REST API Development · Git & GitHub · Docker Fundamentals · Kubernetes Fundamentals
+
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:6D28D9,100:0F172A&height=3"/>
 
@@ -270,10 +277,10 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 
 <div align="center">
 
-<a href="https://leetcode.com/RATHAN005"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/RATHAN005"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/RATHAN005"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/RATHAN005"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/RATHAN005"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.geeksforgeeks.org/user/RATHAN005"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.hackerrank.com/RATHAN005"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.codechef.com/users/RATHAN005"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0F172A"/></a>
 
 </div>
 
@@ -346,13 +353,13 @@ jobs:
 ```yaml
 currently:
   learning:
-    - Advanced accessibility patterns (ARIA authoring practices)
+    - Advanced accessibility patterns (WAI-ARIA authoring practices)
     - Kubernetes operators & advanced scheduling
-    - AWS beyond Cloud Practitioner (targeting Solutions Architect Associate)
+    - AWS Solutions Architect Associate (beyond Cloud Practitioner)
     - Agentic AI workflows for developer tooling
 
   building:
-    - Personal portfolio (Next.js + Framer Motion + Tailwind)
+    - Personal portfolio — rathanportfolio.dev (Next.js + Framer Motion)
     - DevSecOps pipelines with policy-as-code gating
     - Accessibility testing utilities
 
@@ -360,12 +367,6 @@ currently:
     - Generative & agentic AI in real dev workflows
     - Distributed systems fundamentals
     - System design at scale
-
-  open_to:
-    - Full Stack Software Engineering
-    - Accessibility Engineering
-    - DevOps / Cloud Engineering
-    - Open Source Collaboration
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0F172A&height=3"/>
@@ -374,10 +375,11 @@ currently:
 
 <div align="center">
 
-<a href="mailto:rathan14705@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/RATHAN005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:rathan14705@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
+<!-- ADD: Replace YOUR_LINKEDIN with actual LinkedIn handle -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://github.com/RATHAN005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://rathanportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/></a>
 
 </div>
 
@@ -385,9 +387,9 @@ currently:
 
 <div align="center">
 
-*"Great software is built by engineers who value simplicity, accessibility, security, and continuous learning — in that order of daily habit, not just words on a profile."*
+*"Great software is built by engineers who treat accessibility, security, and simplicity as daily habits — not annual audits."*
 
-**⭐ If any of this is useful to you, consider starring the repos it came from.**
+**⭐ If any of this is useful, consider starring the repos it came from.**
 
 </div>
 
