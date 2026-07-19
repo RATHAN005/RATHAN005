@@ -138,16 +138,25 @@
             ArrowUp: false,
             ArrowLeft: false,
             ArrowRight: false,
-            Space: false
+            Space: false,
+            KeyW: false,
+            KeyA: false,
+            KeyD: false
         };
         
         document.addEventListener('keydown', (e) => {
-            if(keys.hasOwnProperty(e.code)) keys[e.code] = true;
+            if(keys.hasOwnProperty(e.code)) {
+                keys[e.code] = true;
+                e.preventDefault(); // Prevent scrolling
+            }
             if(e.code === 'Space') shootLaser();
-        });
+        }, { passive: false });
         
         document.addEventListener('keyup', (e) => {
-            if(keys.hasOwnProperty(e.code)) keys[e.code] = false;
+            if(keys.hasOwnProperty(e.code)) {
+                keys[e.code] = false;
+                e.preventDefault();
+            }
         });
         
         function spawnAsteroids() {
@@ -177,13 +186,13 @@
         
         function update() {
             // Ship movement
-            if (keys.ArrowLeft) ship.rot = TURN_SPEED / 180 * Math.PI / 30;
-            else if (keys.ArrowRight) ship.rot = -TURN_SPEED / 180 * Math.PI / 30;
+            if (keys.ArrowLeft || keys.KeyA) ship.rot = TURN_SPEED / 180 * Math.PI / 30;
+            else if (keys.ArrowRight || keys.KeyD) ship.rot = -TURN_SPEED / 180 * Math.PI / 30;
             else ship.rot = 0;
             
             ship.a += ship.rot;
             
-            if (keys.ArrowUp) {
+            if (keys.ArrowUp || keys.KeyW) {
                 ship.thrust.x += THRUST * Math.cos(ship.a) / 30;
                 ship.thrust.y -= THRUST * Math.sin(ship.a) / 30;
             } else {
