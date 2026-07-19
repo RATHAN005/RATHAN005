@@ -50,11 +50,11 @@
 
 <div align="center">
 
-<img src="info-card.svg" alt="Rathan's neofetch-style info card" />
+![Rathan's neofetch-style info card](info-card.svg)
 
 <br/>
 
-<img src="rathan-ascii.svg" alt="Rathan ASCII art" />
+![Rathan ASCII art](rathan-ascii.svg)
 
 </div>
 
@@ -284,7 +284,7 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 <div align="center">
 
 <!-- Custom animated contribution heatmap (auto-updated daily by GitHub Actions) -->
-<img src="contrib-heatmap.svg" alt="Rathan's contribution heatmap" />
+![Rathan's contribution heatmap](contrib-heatmap.svg)
 
 <br/>
 
