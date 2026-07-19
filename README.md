@@ -50,11 +50,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RATHAN005/RATHAN005/main/info-card.svg" alt="Rathan's neofetch-style info card" />
+<img src="info-card.svg" alt="Rathan's neofetch-style info card" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RATHAN005/RATHAN005/main/rathan-ascii.svg" alt="Rathan ASCII art" />
+<img src="rathan-ascii.svg" alt="Rathan ASCII art" />
 
 </div>
 
@@ -284,7 +284,7 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 <div align="center">
 
 <!-- Custom animated contribution heatmap (auto-updated daily by GitHub Actions) -->
-<img src="https://raw.githubusercontent.com/RATHAN005/RATHAN005/main/contrib-heatmap.svg" alt="Rathan's contribution heatmap" />
+<img src="contrib-heatmap.svg" alt="Rathan's contribution heatmap" />
 
 <br/>
 
