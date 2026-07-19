@@ -35,18 +35,28 @@
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
 <a href="mailto:rathan14705@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RATHAN005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-Download-4F46E5?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9&labelColor=0F172A&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=8B5CF6&labelColor=0F172A&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=RATHAN005&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/RATHAN005?style=for-the-badge&color=6D28D9&labelColor=0F172A&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/RATHAN005?style=for-the-badge&color=8B5CF6&labelColor=0F172A&label=STARS)
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0F172A&height=3"/>
+
+<div align="center">
+
+<img src="info-card.svg" alt="Rathan's neofetch-style info card" />
+
+<br/>
+
+<img src="rathan-ascii.svg" alt="Rathan ASCII art" />
+
+</div>
 
 ## 👋 About Me
 
@@ -260,10 +270,10 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_USERNAME"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/RATHAN005"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/RATHAN005"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/RATHAN005"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/RATHAN005"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -273,20 +283,25 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- Custom animated contribution heatmap (auto-updated daily by GitHub Actions) -->
+<img src="contrib-heatmap.svg" alt="Rathan's contribution heatmap" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RATHAN005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RATHAN005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RATHAN005&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RATHAN005&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RATHAN005&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -295,7 +310,7 @@ A conversational AI chatbot running on resource-constrained embedded hardware, c
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/RATHAN005/RATHAN005/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 Generated via a scheduled GitHub Action (`Platane/snk`) that renders the snake and commits it to an `output` branch:
@@ -313,7 +328,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: RATHAN005
           outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -361,7 +376,7 @@ currently:
 
 <a href="mailto:rathan14705@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/RATHAN005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
