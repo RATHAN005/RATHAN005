@@ -67,7 +67,7 @@ def make_svg(static: bool = False) -> str:
 {chr(10).join(stagger_rules)}"""
 
     parts.append(f"""<style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
 {anim_rules}
 </style>""")
 

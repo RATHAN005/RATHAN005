@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="490" height="462" viewBox="0 0 490 462">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
 
 @keyframes fadeSlide {
   from { opacity: 0; transform: translateX(-10px); }

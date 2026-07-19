@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="844" height="194" viewBox="0 0 844 194">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
 * { font-family: 'JetBrains Mono, Consolas, monospace'; }
 @keyframes slideIn {
   from { opacity: 0; transform: translateY(-8px); }

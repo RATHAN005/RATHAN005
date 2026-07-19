@@ -149,7 +149,7 @@ def make_svg(grid: list[list[dict | None]], stats: dict) -> str:
         )
 
     parts.append(f"""<style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
 * {{ font-family: '{FONT}'; }}
 @keyframes slideIn {{
   from {{ opacity: 0; transform: translateY(-8px); }}

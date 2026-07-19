@@ -152,7 +152,7 @@ def make_svg(rows: list[str]) -> str:
     # ── Styles ──
     # Each row has an animation class; cursor fades in/out at end of row wipe
     parts.append(f"""<style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&amp;display=swap');
 @keyframes wipeIn {{
   from {{ clip-path: inset(0 100% 0 0); }}
   to   {{ clip-path: inset(0 0% 0 0); }}

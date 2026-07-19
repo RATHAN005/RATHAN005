@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="470" height="505" viewBox="0 0 470 505">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&amp;display=swap');
 @keyframes wipeIn {
   from { clip-path: inset(0 100% 0 0); }
   to   { clip-path: inset(0 0% 0 0); }
