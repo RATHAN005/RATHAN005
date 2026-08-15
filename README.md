@@ -219,46 +219,8 @@ A conversational AI chatbot running on resource-constrained embedded hardware �
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:8B5CF6,100:0F172A&height=3"/>
 
-## 🎮 Play
 
-<div align="center">
 
-![Asteroids Demo](asteroids-demo.gif)
-
-<br/>
-
-<a href="https://rathan005.github.io/RATHAN005/"><img src="https://img.shields.io/badge/Play_Live-Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F172A"/></a>
-<a href="https://github.com/RATHAN005/RATHAN005/tree/main/games/asteroids"><img src="https://img.shields.io/badge/Source-Code-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A"/></a>
-
-<br/><br/>
-**Asteroids Clone** — Built with vanilla HTML5 Canvas and JavaScript. Zero dependencies.
-<br/>
-*Engineering highlight: Custom 2D vector mathematics for continuous screen-wrapping, physics-based thrust/friction, and circle-point collision detection.*
-
-<br/>
-*(Note: To capture a real gameplay GIF, record your screen using a tool like LICEcap, OBS, or QuickTime at 800x450 resolution, save/convert to GIF under 3MB, and replace `asteroids-demo.gif` in this repo).*
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:8B5CF6,100:0F172A&height=3"/>
-
-## 💼 Experience
-
-```
-┌─ Accessibility Engineer Intern ────────────────────────────── July 2026 – Present
-│  Software Quality & Accessibility Engineering
-│
-│  • Perform accessibility audits for web applications against WCAG 2.1
-│  • Test with real assistive technologies — NVDA screen reader,
-│    keyboard-only navigation — not just automated checkers
-│  • Identify accessibility defects, write remediation guidance,
-│    and pair with developers to ship fixes
-│  • Evaluate ARIA implementation against WAI authoring practices
-│
-│  Stack: WCAG 2.1 · NVDA · HTML5 · CSS3 · JavaScript · Manual Testing
-└──────────────────────────────────────────────────────────────────
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:4F46E5,100:0F172A&height=3"/>
 
 ## 🏆 Certifications
 
